@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タイムイーター feat. VY1V4",
+  "base_artist": "MI8k",
+  "createdAt": "2026-02-23T10:12:45.484623Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タイムイーター",
+      "artist": "MI8k",
+      "has_synced": false,
+      "path": "select/pl_01_タイムイーター_MI8k.txt"
+    }
+  ]
+}
